@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "set": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "type_traits": "cpp"
+    }
+}
